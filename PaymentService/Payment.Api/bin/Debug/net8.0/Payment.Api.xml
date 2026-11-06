@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Payment.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Payment.Api.Controllers.PaymentsController.GetByOrderId(System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            1. Buscar pedido por PedidoId — Obtiene todos los detalles del pedido desde ECommerce y el estado de su pago.
+            </summary>
+            <param name="pedidoId">Número de ID del pedido generado en ECommerce (ej: 1, 2, 3...)</param>
+            <param name="ct">Token de cancelación</param>
+        </member>
+        <member name="M:Payment.Api.Controllers.PaymentsController.PayByPedidoId(System.Int32,Payment.Api.Controllers.PayOrderRequest,System.Threading.CancellationToken)">
+            <summary>
+            2. Efectuar el pago por PedidoId — Busca automáticamente el pedido y su monto total en ECommerce y procesa el pago.
+            </summary>
+            <param name="pedidoId">Número de ID del pedido generado en ECommerce (ej: 1, 2, 3...)</param>
+            <param name="request">Datos del método de pago y tarjeta</param>
+            <param name="ct">Token de cancelación</param>
+        </member>
+        <member name="M:Payment.Api.Controllers.PaymentsController.ProcessPayment(Payment.Application.Commands.ProcessPayment.ProcessPaymentCommand,System.Threading.CancellationToken)">
+            <summary>
+            Procesar pago enviando el PedidoId (OrderId) dentro del cuerpo JSON.
+            </summary>
+        </member>
+    </members>
+</doc>

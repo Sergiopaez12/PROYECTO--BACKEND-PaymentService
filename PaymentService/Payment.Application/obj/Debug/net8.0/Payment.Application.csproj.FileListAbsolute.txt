@@ -1,0 +1,30 @@
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.deps.json
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.pdb
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.csproj.AssemblyReference.cache
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.AssemblyInfoInputs.cache
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.AssemblyInfo.cs
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.csproj.CoreCompileInputs.cache
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment..100340DD.Up2Date
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\refint\Payment.Application.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.pdb
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Application\obj\Debug\net8.0\ref\Payment.Application.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.deps.json
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Application.pdb
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\bin\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.csproj.AssemblyReference.cache
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.AssemblyInfoInputs.cache
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.AssemblyInfo.cs
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.csproj.CoreCompileInputs.cache
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment..100340DD.Up2Date
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\refint\Payment.Application.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\Payment.Application.pdb
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Application\obj\Debug\net8.0\ref\Payment.Application.dll

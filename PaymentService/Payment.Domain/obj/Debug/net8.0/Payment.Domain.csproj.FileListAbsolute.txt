@@ -1,0 +1,22 @@
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-main (1)\PaymentService\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+C:\PROYECTO--BACKEND-PaymentService\PaymentService\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
